@@ -14,6 +14,7 @@ public class hello {
 
     /**
      * @return the hello
+     *hello hello
      */
     public int getHello() {
         return hello;
